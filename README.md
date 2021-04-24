@@ -23,17 +23,13 @@ Once upon a time, I was studying film studies at university. Then I grew up and 
 I'm here to learn, always happy to meet new people 🌈
 
 ### 👩‍💻 I'm currently 
-- working as a Recruitment Analyst at [Kiwi.com](https://jobs.kiwi.com) ⬜
+- working as a Recruitment Analyst at [Kiwi.com](https://jobs.kiwi.com)
 - learning data science on [Dataquest.io](https://www.dataquest.io/)
 - reading books about statistics 📊
 - looking for a dog and a flat (not necessarily in this order)
 
 ### 🌱 I'm currently learning 
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=plastic&logo=appveyor&logo=python&logoColor=white"/>
-<img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=plastic&logo=appveyor&logo=sqlite&logoColor=white"/>
-<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=plastic&logo=appveyor&logo=r&logoColor=white"/>
-<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=plastic&logo=appveyor&logo=markdown&logoColor=white"/>
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=plastic&logo=appveyor&logo=Jupyter&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=plastic&logo=appveyor&logo=python&logoColor=white"/> <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=plastic&logo=appveyor&logo=sqlite&logoColor=white"/> <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=plastic&logo=appveyor&logo=r&logoColor=white"/> <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=plastic&logo=appveyor&logo=markdown&logoColor=white"/> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=plastic&logo=appveyor&logo=Jupyter&logoColor=white" />
 
 ### 🦉 How to reach me:
 - send me an owl to: pav.schuster@gmail.com
