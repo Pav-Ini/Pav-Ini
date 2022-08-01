@@ -23,13 +23,15 @@ Once upon a time, I was studying film studies at university. Then I grew up and 
 I'm here to learn, always happy to meet new people 🌈
 
 ### 👩‍💻 I'm currently 
-- working as a Recruitment Analyst at [Kiwi.com](https://jobs.kiwi.com)
-- learning data science on [Dataquest.io](https://www.dataquest.io/)
-- reading books about statistics 📊
-- looking for a dog and a flat (not necessarily in this order)
+- working as a HR Analyst at [Kiwi.com](https://jobs.kiwi.com)
+- reading books about data viz, statistics
 
-### 🌱 I'm currently learning 
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=plastic&logo=appveyor&logo=python&logoColor=white"/> <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=plastic&logo=appveyor&logo=sqlite&logoColor=white"/> <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=plastic&logo=appveyor&logo=r&logoColor=white"/> <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=plastic&logo=appveyor&logo=markdown&logoColor=white"/> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=plastic&logo=appveyor&logo=Jupyter&logoColor=white" />
+### 🌱 I'm currently learning/working with 
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/> <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/> <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+### 🦡 From zero to one
+- you can check out my [learning repository](https://github.com/Pav-Ini/DataQuest) where I'd finished the *Data Analyst* path on [Dataquest.io](https://www.dataquest.io/)
+- or you can checkout my [baby stetps attemt](https://github.com/Pav-Ini/hr-source-data-events/blob/master/DA_Project_Jupyter.ipynb) of analyzing how Kiwi.com events are contributing to hiring new devs
 
 ### 🦉 How to reach me:
 - send me an [owl](mailto:pav.schuster@gmail.com)
